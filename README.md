@@ -1,2 +1,2 @@
-# Humain
+# HumAIn
 Projects
